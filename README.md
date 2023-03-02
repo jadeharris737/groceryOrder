@@ -1,7 +1,4 @@
 # groceryOrder
-(2022) University Grocery Order System Java Swing, AWT, and IO project.
-
-# connect
 University project completed during first year (2022) in 'Object Oriented Design and Programming' course. <br /><br />
 Demonstrates Java Swing and AWT components and text file I/O.<br />
 Not currently maintained or updated since 2022.
