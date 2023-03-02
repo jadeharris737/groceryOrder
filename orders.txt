@@ -1,0 +1,27 @@
+1,ANATR,22/10/2022
+10
+Aniseed Syrup,10.0,1
+Boston Crab Meat,18.4,1
+Camembert Pierrot,34.0,1
+Carnarvon Tigers,62.5,1
+Chai,18.0,1
+Chang,19.0,1
+Chartreuse verte,102.1,1
+Chef Anton's Cajun Seasoning,25.0,1
+Flotemysost,21.5,1
+Geitost,2.5,1
+2,AROUT,22/10/2022
+13
+Aniseed Syrup,10.0,2
+Boston Crab Meat,18.4,3
+Camembert Pierrot,34.0,1
+Chai,18.0,2
+Chef Anton's Cajun Seasoning,25.0,2
+Flotemysost,21.5,2
+Gnocchi di nonna Alice,38.0,2
+Gudbrandsdalsost,36.0,1
+Gula Malacca,19.5,2
+Ikura,31.0,1
+Gustaf's Knackebrod,21.0,1
+Guarana Fantastica,4.5,1
+Grandma's Boysenberry Spread,25.0,1
